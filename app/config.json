@@ -1,5 +1,5 @@
 {
-  "appLogo": "logo.svg",
+  "appLogo": "logo.png",
   "state": "Oklahoma",
   "activeBubble": "efr",
   "activeChoropleth": "mhi",
@@ -368,7 +368,7 @@
     }
   ],
   "dateRange": ["2018-01-01", "2022-05-01"],
-  "zoom": 10,
+  "zoom": 9,
   "maxBounds": [
     [-96.14, 35.98],
     [-95.79, 36.21]
